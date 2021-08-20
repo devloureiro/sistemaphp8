@@ -22,7 +22,7 @@ var_dump(10 * 2);
 echo'<hr>';
 var_dump(10 / 2);
 echo'<hr>';
-var_dump(10 % 2);
+var_dump(10 % 2); // bom para descobrir se é par ou impar.
 echo'<hr>';
 var_dump(10 ** 2);
 echo'<hr>';
